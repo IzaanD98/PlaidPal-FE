@@ -1,50 +1,41 @@
-### PlaidPal 
----  
-Frontend part of the final project made in the last two weeks of the Northcoders bootcamp.  
-  
-[Hosted Example](https://plaidpal.nidhoggr.co.uk/)  
+# PlaidPal-FE
 
-The frontend was created with React, react-bootstrap, react-router-dom & axios.  
+## Hosted Link: https://plaidpal.netlify.app
 
-The team was:  
+PlaidPal is a financial management web app consolidating all your bank accounts in one easy-to-use platform. With the help of the Plaid API, you can track your spending, monitor account balances, and enjoy seamless account management.
+
+## Usage
+
+• Sign up and log in using your Google account
+
+• Add bank accounts in one app.
+
+• Track all transactions and balances with all bank accounts through Graphs and charts.
+
+• Add notes with each transaction in the transaction table.
+
+• Delete an Account
+
+## Built With
+
+• React - for front-end components and structure of the app
+
+• Plaid API - provides access to bank account data such as transaction history, account balances, and account information.
+
+• Axios - for fetching data from the Plaid API
+
+• Google oAuth - for Google sign-up and login
+
+## Note
+
+This is an MVP final project from Northcoders Bootcamp
+You can check our backend here:
+https://github.com/lanzmoncis/PlaidPal-BE
+
+Team:
+
 [Haleem Hussain](https://github.com/HaleemHussain)  
 [Lance Moncis](https://github.com/lanzmoncis)  
 [Izaan Dalvi](https://github.com/IzaanD98)  
 [Mike Greenan](https://github.com/mikegreenan98)  
-Tony Lancaster (me).  
-
-The backend of the project can be found here:  [IzaanD98/plaidPal-BE](https://github.com/IzaanD98/plaidPal-BE)   
-Or here: [/lanc2112b/be_plaidpal_on](https://github.com/lanc2112b/be_plaidpal_on)  
-  
-* *NOTE: This was a student project, done with a level of satire around the title & logo.*  
-___  
-
-## Learn More About React
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Tony Lancaster](https://github.com/lanc2112b)
