@@ -28,7 +28,7 @@ PlaidPal is a financial management web app consolidating all your bank accounts 
 
 ## Note
 
-This is an MVP final project from Northcoders Bootcamp
+This project is an MVP developed as part of the Northcoders Bootcamp.
 You can check our backend here:
 https://github.com/lanzmoncis/PlaidPal-BE
 
