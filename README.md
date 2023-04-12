@@ -22,6 +22,8 @@ PlaidPal is a financial management web app consolidating all your bank accounts 
 
 • Plaid API - provides access to bank account data such as transaction history, account balances, and account information.
 
+You can refer to this doc: https://plaid.com/docs/
+
 • Axios - for fetching data from the Plaid API
 
 • Google oAuth - for Google sign-up and login
