@@ -32,7 +32,7 @@ You can refer to this doc: https://plaid.com/docs/
 
 This project is an MVP developed as part of the Northcoders Bootcamp.
 You can check our backend here:
-https://github.com/lanzmoncis/PlaidPal-BE
+https://github.com/IzaanD98/plaidPal-BE
 
 Team:
 
