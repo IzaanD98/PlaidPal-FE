@@ -1,6 +1,6 @@
 # PlaidPal-FE
 
-## Hosted Link: https://plaidpal.netlify.app
+## Hosted Link: https://plaidpal.nidhoggr.co.uk/
 
 PlaidPal-FE is the front-end repository for a financial management web app developed using React and the Plaid API. With PlaidPal, users can track their spending, monitor account balances, and manage multiple bank accounts in one platform. The app also allows users to add notes to each transaction and delete an account. PlaidPal-FE utilizes Google oAuth for sign-up and login and Axios for fetching data from the Plaid API. This project is an MVP developed as part of the Northcoders Bootcamp.
 
